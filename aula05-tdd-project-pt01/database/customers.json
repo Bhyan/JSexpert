@@ -1,0 +1,23 @@
+[
+    {
+        "id": "c8fce356-e504-4012-aeb8-368329af1294",
+        "name": "Aventador",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "88d899fb-4df9-4ccb-8e56-685a8c1e5dc0",
+        "name": "Taurus",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "a6153339-7d9c-4f9e-9c9d-b0257a585b4f",
+        "name": "Land Cruiser",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    }
+]

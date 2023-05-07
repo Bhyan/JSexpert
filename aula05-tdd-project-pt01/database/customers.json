@@ -1,23 +1,17 @@
 [
     {
-        "id": "c8fce356-e504-4012-aeb8-368329af1294",
-        "name": "Aventador",
-        "releaseYear": 2022,
-        "available": true,
-        "gasAvailable": true
+        "id": "71406026-ea47-4645-b1cc-a197295f959a",
+        "name": "Noelia",
+        "age": 25
     },
     {
-        "id": "88d899fb-4df9-4ccb-8e56-685a8c1e5dc0",
-        "name": "Taurus",
-        "releaseYear": 2022,
-        "available": true,
-        "gasAvailable": true
+        "id": "caafe0d8-a716-46ee-aa62-c1015f15f30d",
+        "name": "Kale",
+        "age": 32
     },
     {
-        "id": "a6153339-7d9c-4f9e-9c9d-b0257a585b4f",
-        "name": "Land Cruiser",
-        "releaseYear": 2022,
-        "available": true,
-        "gasAvailable": true
+        "id": "14a89992-4ee8-41f1-8188-72cd7bf74db7",
+        "name": "Lawrence",
+        "age": 37
     }
 ]

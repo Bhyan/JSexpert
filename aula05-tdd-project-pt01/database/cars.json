@@ -1,1 +1,23 @@
-[{"id":"c8fce356-e504-4012-aeb8-368329af1294","name":"Aventador","releaseYear":2022,"available":true,"gasAvailable":true},{"id":"88d899fb-4df9-4ccb-8e56-685a8c1e5dc0","name":"Taurus","releaseYear":2022,"available":true,"gasAvailable":true},{"id":"a6153339-7d9c-4f9e-9c9d-b0257a585b4f","name":"Land Cruiser","releaseYear":2022,"available":true,"gasAvailable":true}]
+[
+    {
+        "id": "d2fac7c5-1af1-4ee9-92ee-a32da180b06c",
+        "name": "El Camino",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "be60bc63-5458-4a8b-b569-da3359286b2f",
+        "name": "Durango",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "76b35634-8389-4fec-a9da-a49cf57518cd",
+        "name": "A4",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    }
+]
